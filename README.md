@@ -94,6 +94,20 @@ npm install
 npm install --prefix frontend
 ```
 
+El segundo comando instala todas las dependencias del frontend declaradas en `frontend/package.json`, incluyendo:
+
+```bash
+animejs
+react-router-dom
+lucide-react
+```
+
+Si se quisiera instalar AnimeJS manualmente en una copia nueva del frontend, el comando seria:
+
+```bash
+npm install animejs --prefix frontend
+```
+
 ## Ejecutar frontend
 
 Desde la raiz:
