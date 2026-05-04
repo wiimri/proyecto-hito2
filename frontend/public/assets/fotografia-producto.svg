@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Sesion fotografia producto">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="0.5" stop-color="#ecfeff"/>
+      <stop offset="1" stop-color="#fff7ed"/>
+    </linearGradient>
+    <linearGradient id="lens" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="270" y="245" width="660" height="380" rx="64" fill="#17202a"/>
+  <rect x="398" y="190" width="210" height="95" rx="26" fill="#334155"/>
+  <rect x="688" y="215" width="130" height="48" rx="24" fill="#f59e0b"/>
+  <circle cx="600" cy="435" r="150" fill="#0f172a" stroke="#e2e8f0" stroke-width="28"/>
+  <circle cx="600" cy="435" r="94" fill="url(#lens)"/>
+  <circle cx="566" cy="400" r="28" fill="#ecfeff" opacity="0.82"/>
+  <path d="M186 180h138M876 154h170M924 690h116M132 646h190" stroke="#14b8a6" stroke-width="18" stroke-linecap="round"/>
+  <path d="M160 232h94M916 204h92M884 640h76M170 594h120" stroke="#f59e0b" stroke-width="14" stroke-linecap="round"/>
+  <text x="84" y="106" fill="#115e59" font-family="Arial, sans-serif" font-size="44" font-weight="900">Fotografia de producto</text>
+  <text x="84" y="158" fill="#475569" font-family="Arial, sans-serif" font-size="28" font-weight="700">Imagenes editadas para emprendimientos</text>
+</svg>

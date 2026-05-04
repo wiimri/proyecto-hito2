@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Silla ergonomica">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff7ed"/>
+      <stop offset="0.55" stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#dff7f4"/>
+    </linearGradient>
+    <linearGradient id="seat" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#164e63"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <path d="M430 110h330c70 0 115 60 98 128l-76 302c-13 54-62 92-118 92H510c-56 0-104-38-118-92l-76-302c-17-68 28-128 114-128Z" fill="url(#seat)"/>
+  <path d="M440 250c82 54 230 54 312 0" fill="none" stroke="#ccfbf1" stroke-width="24" stroke-linecap="round"/>
+  <rect x="410" y="560" width="380" height="92" rx="46" fill="#17202a"/>
+  <path d="M600 650v72" stroke="#17202a" stroke-width="32" stroke-linecap="round"/>
+  <path d="M420 730h360" stroke="#17202a" stroke-width="26" stroke-linecap="round"/>
+  <path d="M450 730l-86 44M750 730l86 44M600 730v50" stroke="#17202a" stroke-width="20" stroke-linecap="round"/>
+  <path d="M356 420h-110M844 420h110" stroke="#0f766e" stroke-width="32" stroke-linecap="round"/>
+  <rect x="104" y="92" width="360" height="84" rx="28" fill="#ffedd5"/>
+  <text x="138" y="146" fill="#9a3412" font-family="Arial, sans-serif" font-size="38" font-weight="900">Silla ergonomica</text>
+  <path d="M880 122c74 20 120 62 154 122" fill="none" stroke="#14b8a6" stroke-width="18" stroke-linecap="round"/>
+</svg>

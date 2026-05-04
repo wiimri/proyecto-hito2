@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Bicicleta urbana aro 29">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#dff7f4"/>
+      <stop offset="0.55" stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#fef3c7"/>
+    </linearGradient>
+    <linearGradient id="frame" x1="0" x2="1">
+      <stop offset="0" stop-color="#0f766e"/>
+      <stop offset="1" stop-color="#164e63"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="230" cy="610" r="150" fill="none" stroke="#17202a" stroke-width="28"/>
+  <circle cx="920" cy="610" r="150" fill="none" stroke="#17202a" stroke-width="28"/>
+  <circle cx="230" cy="610" r="112" fill="none" stroke="#94a3b8" stroke-width="8"/>
+  <circle cx="920" cy="610" r="112" fill="none" stroke="#94a3b8" stroke-width="8"/>
+  <path d="M230 610 430 365 620 610 430 610 720 335 920 610" fill="none" stroke="url(#frame)" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M620 610 505 350" fill="none" stroke="#0f766e" stroke-width="28" stroke-linecap="round"/>
+  <path d="M470 330h-120" fill="none" stroke="#17202a" stroke-width="26" stroke-linecap="round"/>
+  <path d="M710 335l48-110h132" fill="none" stroke="#17202a" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M860 225c46-36 98-25 132 14" fill="none" stroke="#17202a" stroke-width="22" stroke-linecap="round"/>
+  <rect x="72" y="78" width="330" height="86" rx="28" fill="#0f766e"/>
+  <text x="112" y="133" fill="#fff" font-family="Arial, sans-serif" font-size="38" font-weight="800">Bicicleta urbana</text>
+  <path d="M790 116h240" stroke="#f59e0b" stroke-width="16" stroke-linecap="round"/>
+  <path d="M830 158h156" stroke="#14b8a6" stroke-width="16" stroke-linecap="round"/>
+</svg>
