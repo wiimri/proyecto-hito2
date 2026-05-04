@@ -140,7 +140,7 @@ useMarketplace()
 
 ## Preparacion para consumo de API
 
-El servicio base para consumir la API definida en el Hito 1 esta en:
+El servicio base para consumir la API del proyecto esta en:
 
 ```text
 frontend/src/services/api.js

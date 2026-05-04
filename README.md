@@ -146,7 +146,7 @@ npm run build
 
 ## Backend y base de datos
 
-El backend y la base de datos se incluyen como continuidad del diseno del Hito 1, pero la evaluacion del Hito 2 se centra en el desarrollo frontend.
+El backend y la base de datos se incluyen como soporte del proyecto Hito 2, pero la evaluacion de este hito se centra en el desarrollo frontend.
 
 Variables de entorno de ejemplo:
 
